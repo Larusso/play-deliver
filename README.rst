@@ -1,18 +1,18 @@
 play-deliver
 ============
-.. image:: https://pypip.in/version/playdeliver/badge.svg?text=version
+.. image:: https://img.shields.io/pypi/v/playdeliver.svg?label=version
     :target: https://pypi.python.org/pypi/playdeliver/
     :alt: Latest Version
 
-.. image:: https://pypip.in/license/playdeliver/badge.svg
+.. image:: https://img.shields.io/pypi/l/playdeliver.svg
     :target: https://pypi.python.org/pypi/playdeliver/
     :alt: License
 
-.. image:: https://pypip.in/py_versions/playdeliver/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/playdeliver.svg
     :target: https://pypi.python.org/pypi/playdeliver/
     :alt: Supported Python versions
 
-.. image:: https://pypip.in/status/playdeliver/badge.svg
+.. image:: https://img.shields.io/pypi/status/playdeliver.svg
     :target: https://pypi.python.org/pypi/playdeliver/
     :alt: Development Status
 
